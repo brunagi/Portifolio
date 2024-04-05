@@ -47,7 +47,6 @@ img{
     border-radius: 55%;
     width: 20vw;
     
-    
 }
 
     h2{
@@ -55,7 +54,6 @@ img{
         font-family: "Pacifico", cursive;
         font-size: 6vh;
     }
-
 
     h3{
         color: white;
@@ -143,7 +141,7 @@ h2{
         color: crimson;
         font-family: "Pacifico", cursive;
         font-size: 2.8rem;
-    
+
     }
 
 `
